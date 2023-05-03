@@ -6,7 +6,7 @@
 
 <img src="https://imgur.com/feVjXQG.png" alt="https://www.youtube.com/@DevJoseH">
 
-> Veja o vídeo de tutorial de como configurar toda a handler clicando [aqui](https://youtu.be/Ig_PcQO09q4)
+> Veja o vídeo de tutorial de como configurar toda a handler clicando [aqui](https://youtu.be/c2f7GDjeFo4)
 
 ### Sistemas
 
