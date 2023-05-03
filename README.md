@@ -29,7 +29,7 @@ Antes de instalar, verifique se você atende aos seguintes requisitos:
 ## 🚀 Instalando a Handler
 
 ```bash
-git clone https://github.com/YTJoseGames/DiscordJS-V13-Handler.git
+git clone https://github.com/devjoseh/DiscordJS-V14-YouTube-Videos.git
 ```
 
 Após instalar, digite no seu terminal
@@ -56,4 +56,4 @@ Ative-as e certifique-se de clicar em "Save Changes" ou "Salvar Alterações"!
 
 ## 📝 Licença
 
-Este projeto está licenciado. Veja mais [detalhes](https://github.com/YTJoseGames/DiscordJS-V13-Handler/blob/main/LICENSE)
+Este projeto está licenciado. Veja mais [detalhes](https://github.com/devjoseh/DiscordJS-V14-YouTube-Videos/blob/main/LICENSE)
