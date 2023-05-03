@@ -1,0 +1,14 @@
+{
+	"color": "",
+	"titulo": "",
+	"footer": "",
+
+	"cooldowns": {
+		"message": "Aguarde: `<duration>` para executar o comando novamente!"
+	},
+	
+	"erromsg": {
+		"titulo": "⚠ Ocorreu um Erro! ⚠"
+	}
+}
+

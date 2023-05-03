@@ -1,0 +1,17 @@
+{
+  "name": "discordjs-v14-youtube-videos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "chalk": "^2.4.1",
+    "discord.js": "^14.10.2",
+    "ms": "^2.1.3"
+  }
+}
