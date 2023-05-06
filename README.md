@@ -13,7 +13,7 @@
 Em breve teremos vários outros sistemas todos em V13 para o seu bot. segue a lista: 
 
 - [ ] Economia
-- [ ] Moderação
+- [x] Moderação
 - [ ] Interação
 - [ ] Diversão
 - [ ] Música
